@@ -1,0 +1,13 @@
+{
+  "name": "hyper-oxocarbon",
+  "version": "1.0.0",
+  "description": "Hyper theme based on the oxocarbon.nvim colors",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "oxocarbon"
+  ],
+  "author": "charleszheng44",
+  "license": "MIT"
+}
